@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 
 This is a Todo list .
+- We can Read , create , Update and delete todo
+- 
